@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmatch-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Conrado Benito</dc:creator>
+    <dc:title>OBJETIVOS DE DESARROLLO SOSTENIBLE</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>OBJETIVOS DE DESARROLLO SOSTENIBLE</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<matching-exercise>
+<default-right-item>???
+</default-right-item>
+
+<pair>
+<left-item><text>Fin de la pobreza</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Colaboro ayudando en las campa&amp;#x00F1;as del colegio.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Hambre cero</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Evitar despilfarro de comida y tirarla a la basura.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Salud y bienestar</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Tener una alimentaci&amp;#x00F3;n saludable y hacer ejercicio.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Educaci&amp;#x00F3;n de calidad</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Colaboro con mis estudios.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Igualdad de g&amp;#x00E9;nero</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Busco ejemplos de mujeres como personajes referentes.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Agua limpia y de saneamiento</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Procuro ducharme en vez de ba&amp;#x00F1;arme.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Energ&amp;#x00ED;a asequible y no contaminante</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Programo la calefacci&amp;#x00F3;n para no malgastar-</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Trabajo decente y crecimiento econ&amp;#x00F3;mico</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Puestos laborales con condiciones laborales y salarias adecuadas.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Industria, innovaci&amp;#x00F3;n e infraestructura.</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Crear nuevas tecnolog&amp;#x00ED;a para que las empresas mejoren.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Reducci&amp;#x00F3;n de las desiguadades</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Colaboro con OND&amp;#x00B4;S que trabajan con los desfavorecidos.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Ciudades y comunidades sostenibles</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Uso un medio de transporte no contaminante</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Producci&amp;#x00F3;n y consumo responsables</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Compro lo necesario y reciclo todo lo que puedo.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Acci&amp;#x00F3;n por el clima</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Compro electrodom&amp;#x00E9;sticos que sean eficientes y no contaminantes.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Vida submarina</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Impido, dentro de mis posibilidades, que el pl&amp;#x00E1;stico llegue a los oc&amp;#x00E9;anos.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Vida de ecosistemas terrestres</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Cuando voy a la naturaleza no tiro residuos.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Paz, justicia e instituciones s&amp;#x00F3;lidas</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Colaboro en el colegio en todo lo que organiza relacionado con los derechos humanos.</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>Alianzas para logar los objetivos.</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>Los gobiernos debe colaborar por el desarrollo de otros pa&amp;#x00ED;ses.</text>
+<fixed>0</fixed>
+</right-item></pair>
+</matching-exercise>
+</data>
+
+<hotpot-config-file>
+<jmatch>
+<exercise-subtitle></exercise-subtitle>
+<instructions>&amp;#x003C;img src=&quot;image1.png&quot; alt=&quot;image1.png&quot; title=&quot;image1&quot; width=&quot;100&quot; height=&quot;110&quot;/&amp;#x003E;
+REPASO DE NATURALES 6&amp;#x00BA; E. PRIMARIA</instructions>
+<next-ex-url>Repaso.htm</next-ex-url>
+<send-email>0</send-email>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>1</questions-to-show>
+<shuffle-questions>0</shuffle-questions>
+<separate-javascript-file>0</separate-javascript-file>
+<next-caption>SIGUIENTE</next-caption>
+<delete-caption>BORRAR</delete-caption>
+<guess-correct>Intento correcto</guess-correct>
+<guess-incorrect>Intento incorrecto</guess-incorrect>
+</jmatch>
+
+<global>
+<your-score-is>Su puntuaci&amp;#x00F3;n es:</your-score-is>
+<correct-indicator>&amp;#x2714;</correct-indicator>
+<incorrect-indicator>&amp;#x2718;</incorrect-indicator>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<times-up>Your time is over!</times-up>
+<check-caption>COMPROBAR</check-caption>
+<ok-caption>OK</ok-caption>
+<next-ex-caption>SIGUIENTE=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=ANTERIOR</back-caption>
+<contents-caption>&amp;#x00CD;NDICE</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>1</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Geneva,Arial,sans-serif</font-face>
+<font-size>medium</font-size>
+<page-bg-color>#ff0000</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#0000ff</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmatch-file>
